@@ -10,6 +10,7 @@
 > the edit, the higher the risk of not looking like the person.
 
 ## 目录 / Contents
+0. 影棚精修档（Studio-Grade）——"摄影店精修"标准 / Studio-Grade tier — "pro retouch shop" standard
 1. 皮肤 / Skin
 2. 脸型与轮廓 / Face shape & contour
 3. 眼睛与眼周 / Eyes & under-eye
@@ -23,6 +24,47 @@
 11. 方案匹配方法 / Plan-matching method
 
 ---
+
+## 0. 影棚精修档（Studio-Grade）——"摄影店精修"标准 / Studio-Grade Tier — "Pro Retouch Shop" Standard
+
+> 当用户说"精修 / 写真级 / 摄影店水平 / 影楼水平 / 修狠一点 / 网红感"时，整套方案按本档执行。
+> **精修 ≠ AI 味**：幅度可以拉满，判断红线仍然是身份、纹理和光影物理（见 anti-ai.md），
+> 不是修改幅度。/ When the user says "studio retouch / editorial level / retouch shop level / go harder /
+> influencer look", run the whole plan at this tier. **Heavy retouching ≠ AI look**: amplitude can be
+> maxed; the red lines remain identity, texture and light physics (see anti-ai.md) — not the amount of change.
+
+- **皮肤 / Skin**：中性灰级均匀——额头、面颊、眼周、口周**分区精细统一肤色**；痘痘、斑点、
+  痘印全去；毛孔细化但保留纹理层次。双曲线（dodge & burn）：提亮面部三角区（眼下—鼻梁—下巴），
+  压暗轮廓边缘和下颌阴影，让脸"立起来"。/ Zone-based evening (forehead/cheeks/eye zone/mouth zone);
+  remove all blemishes; refine pores while keeping texture. Dodge & burn: lift the facial triangle,
+  darken edges and jaw shadow for dimension.
+- **眼睛 / Eyes**：眼神光重塑（自然双点高光）、眼白净化不发黄、睫毛根根分明、卧蚕轻提、
+  眼周暗沉清干净。/ Rebuilt catchlights (natural two-point), cleaned sclera, defined lashes, subtle
+  aegyo-sal lift, under-eye darkness cleared.
+- **眉毛 / Brows**：按脸型精修眉形、补满空缺、边缘干净。/ Shape-appropriate brow sculpt, filled gaps,
+  clean edges.
+- **鼻子 / Nose**：修容式鼻梁光影（不是改结构）、鼻头精致化、鼻翼高光哑光化。/ Contour-style bridge
+  shading (structure unchanged), refined tip, matte nostril highlights.
+- **嘴唇 / Lips**：去死皮干裂、轮廓清晰、自然血色或方案指定唇色。/ Remove dryness, crisp outline,
+  natural tint or plan-specified lip color.
+- **牙齿 / Teeth**：自然白两个度以内、通透感保留、明显不齐可轻度调整。/ Whiten within two shades,
+  keep translucency, mild evening of obvious misalignment.
+- **脸型 / Face**：轮廓液化——下颌线、脸颊、下巴尖按方案收紧，**五官位置关系不动**。
+  / Liquefy-level contouring — jawline, cheeks, chin per plan; feature positions unchanged.
+- **头发 / Hair**：全头碎发清理、发际线精修（不过度整齐）、光泽统一、明显稀疏处补密。
+  / Full-head flyaway cleanup, neatened (not over-neat) hairline, unified shine, fill obvious sparseness.
+- **身材 / Body**（半身/全身）：肩背收薄、手臂腰线按方案处理、比例自然、**背景直线绝不弯**。
+  / Slimmed shoulders/back, waist and arms per plan, natural proportions; background straight lines never bend.
+- **背景 / Background**：杂物全清、路人消除、虚化程度统一。/ Full clutter and bystander removal,
+  unified bokeh.
+- **光影 / Light**：重塑主光质感——方向不变，但柔化正午/顶光的硬阴影、均匀提亮暗部，
+  输出适度锐化。/ Rebuild light quality — direction unchanged, but soften harsh midday/top-light shadows,
+  evenly lift shadows, moderate output sharpening.
+- **色调 / Color**：完整调色分级，肤色与环境色分离处理。/ Full color grading with skin tones graded
+  separately from the environment.
+- **红线 / Red lines**：身份特征与笑容死保；皮肤纹理保留；光影方向与原图一致；不写成 flawless。
+  / Identity and smile are untouchable; skin texture stays; light direction matches the original;
+  never write "flawless".
 
 ## 1. 皮肤 / Skin
 - **自然微调 / Subtle**：even out skin tone, remove temporary blemishes and redness, keep all natural skin texture and pores（均匀肤色，去临时性痘痘/泛红，保留全部纹理毛孔）

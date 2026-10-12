@@ -73,6 +73,13 @@
 原则 / Principle：**修的是"这张照片"，不是"这个人重新拍一张"。所有提示词都要锚定原图。**
 / You are editing THIS photo, not re-shooting the person. Anchor every prompt to the original image.
 
+补充 / Corollary：**修改幅度大 ≠ AI 味。** 摄影店级精修（分区肤色、液化轮廓、光影重塑）
+是被允许甚至被要求的；AI 味的判断标准是身份是否改变、纹理是否保留、光影是否符合物理，
+而不是改了多少。影棚精修档的执行标准见 [retouch-playbook.md](retouch-playbook.md) §0。
+/ Heavy editing ≠ AI look. Studio-grade retouching (zoned skin, liquefied contour, rebuilt light) is
+allowed and often requested; the AI-look test is whether identity changed, texture survived and light
+stays physical — not how much was changed. Studio-grade execution: [retouch-playbook.md](retouch-playbook.md) §0.
+
 ## 4. 提示词写法规范 / Prompt-writing spec
 
 每张图的提示词按此结构组织 / Structure every prompt as:

@@ -43,11 +43,16 @@
 针对第 1 问选中的每一项，确认两点 / For each item selected in Q1, confirm two things:
 
 1. **程度 / Degree**：自然微调（熟人看不出修过）/ 明显改善（看得出变好看了但说不出哪变了）/
-   大胆改造（突破原图限制）。/ subtle (friends can't tell) / noticeable (clearly better, unplaceable) /
-   bold (break the limits of the original).
+   大胆改造（突破原图限制）/ **影棚精修**（摄影店精修水平：全脸分区处理、液化轮廓、光影重塑，
+   见 retouch-playbook §0）。/ subtle (friends can't tell) / noticeable (clearly better, unplaceable) /
+   bold (break the limits of the original) / **studio-grade** (pro retouch-shop level: zoned full-face
+   work, liquefied contour, rebuilt light — see retouch-playbook §0).
    默认推荐"自然微调"或"明显改善"，并说明：
    > 建议自然或明显改善这个程度，修得太狠容易不像你、也有 AI 感，你倾向哪种？
-   > **EN:** "Subtle or noticeable is recommended — heavy edits risk not looking like you and add AI feel. Which do you prefer?"
+   > 用户已说"精修/写真级/摄影店水平/影楼"等触发词时跳过此推荐，直接锚定影棚精修档。
+   > **EN:** "Subtle or noticeable is recommended — heavy edits risk not looking like you and add AI feel.
+   > Which do you prefer?" If the user already said "studio retouch / editorial / retouch-shop level",
+   > skip this recommendation and anchor at studio-grade directly.
 
 2. **保留项（必问）/ Keep-list (mandatory)**："脸上有没有什么是绝对不能动的？比如痣、单眼皮、
    笑容的样子、梨涡这类你的个人标志。" / "Is there anything on your face that must never change? Moles,
@@ -107,8 +112,9 @@
 修哪里（逐项）/ 怎么修（动作+程度）/ 整体风格 / 改后效果（用户能想象出成片）/
 适合场景 / 风险提醒。
 
-- 风格已定：出同一方向下的自然档 / 出片档 / 大胆档三套强度差异方案
-  / Style decided: three intensity tiers within that direction — subtle / polished / bold.
+- 风格已定：出同一方向下的自然档 / 出片档 / 影棚精修档三套强度差异方案（用户点了精修触发词则三套都围绕影棚精修档做侧重差异）
+  / Style decided: three intensity tiers within that direction — subtle / polished / studio-grade
+  (if studio triggers were said, all three plans orbit the studio-grade tier with different emphases).
 - 风格未定：出跨风格的三套"不同的自己"，明确可混搭
   / Undecided: three cross-style "different selves"; mixing explicitly allowed.
 - 每套方案的【改后效果】至少 2–3 句具体描述（肤色、光线、色彩、质感、像什么场景

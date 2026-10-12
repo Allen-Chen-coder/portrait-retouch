@@ -61,7 +61,7 @@ description: 人像照片精修与风格化（P图）。当用户上传自己的
 按 [references/interview-script.md](references/interview-script.md) 的剧本执行：
 
 - **第 1 问（修哪里）**：用户最想调整哪些部位/区域，结合第 0 步的分析给具体选项。
-- **第 2 问（怎么修）**：每个部位怎么改、改到什么程度（自然微调 / 明显改善 / 大胆改造），并确认保留项——绝对不能动的个人特征。
+- **第 2 问（怎么修）**：每个部位怎么改、改到什么程度（自然微调 / 明显改善 / 影棚精修），并确认保留项——绝对不能动的个人特征。用户提到"精修/写真级/摄影店水平"等词时，程度默认锚定影棚精修档。
 - **第 3 问（整体风格）**：想要什么整体风格/氛围/用途。用户"不知道/你看着办"时记录为"风格未定"，不要追问。
 - **第 4 问（选滤镜）**：打开 [references/style-library.md](references/style-library.md) 的滤镜模板库，让用户快捷选择一个现成滤镜，或选"不套"。**此问在补充环节之前。**
 - **第 5 问（补充环节）**：主动追问还有什么要补充：参照对象、禁忌元素、妆感、用途平台、尺寸比例、备选张数。用户确认没有遗漏后，提问环节关闭。
@@ -71,7 +71,9 @@ description: 人像照片精修与风格化（P图）。当用户上传自己的
 > **EN:** Follow the script in [references/interview-script.md](references/interview-script.md):
 >
 > - **Q1 (where):** which parts/regions to adjust; offer concrete options based on the Step-0 analysis.
-> - **Q2 (how):** how to change each part and to what degree (subtle / noticeable / bold), plus the keep-list — personal features that must never be touched.
+> - **Q2 (how):** how to change each part and to what degree (subtle / noticeable / studio-grade), plus the
+>   keep-list — personal features that must never be touched. If the user mentions "studio retouch /
+>   editorial level / retouch-shop level", anchor the degree at studio-grade by default.
 > - **Q3 (overall style):** desired style/mood/purpose. If the user says "I don't know / you decide", record "style undecided" — do NOT probe further.
 > - **Q4 (filter):** offer quick picks from the filter template library in [references/style-library.md](references/style-library.md), including "no filter". **This comes BEFORE the supplement round.**
 > - **Q5 (supplements):** actively ask about anything missing: reference idols, forbidden elements, makeup, platform/purpose, aspect ratio, number of variants. The Q&A phase closes only after the user confirms nothing is missing.
@@ -93,7 +95,9 @@ description: 人像照片精修与风格化（P图）。当用户上传自己的
 【风险提醒】（可选）该方案的注意事项，如脸型变化较大、背景直线不能弯等
 ```
 
-- 若第 3 问风格已定：3 套方案在同一风格方向下做**侧重和强度差异**（如：自然档 / 出片档 / 大胆档），不能出成三套几乎一样的方案。
+- 若第 3 问风格已定：3 套方案在同一风格方向下做**侧重和强度差异**（如：自然档 / 出片档 /
+  影棚精修档），不能出成三套几乎一样的方案。用户说了"精修 / 写真级 / 摄影店水平 / 影楼 /
+  修狠一点 / 网红感"等触发词时，三套方案直接围绕影棚精修档（retouch-playbook §0）做侧重差异。
 - 若风格未定：3 套方案必须是**不同的自己**（跨风格，差异明显），可混搭并明确说可混搭。
 - 方案之间的差异要足以让用户感觉"是在选不同的成片"，而不是在选参数。
 
@@ -112,7 +116,9 @@ description: 人像照片精修与风格化（P图）。当用户上传自己的
 > ```
 >
 > - If Q3 picked a style: the 3 plans vary in emphasis and intensity within that direction
->   (subtle / polished / bold) — three near-identical plans are not allowed.
+>   (subtle / polished / studio-grade) — three near-identical plans are not allowed. If the user said
+>   "studio retouch / editorial level / retouch-shop level / go harder / influencer look", build all
+>   three plans around the studio-grade tier (retouch-playbook §0).
 > - If undecided: the 3 plans must be clearly different "different selves" (cross-style), and the user
 >   must be told mixing is allowed.
 > - The differences must feel like choosing between different final photos, not between parameters.
