@@ -7,11 +7,11 @@
 prime directive: analyze first, interview before editing, present plans before touching a pixel —
 output that reads like a professional retoucher's work, not an AI generation.
 
-![Before / After](assets/cases/case-09-compare.jpg)
+![Before / After](assets/cases/case-10-compare.jpg)
 
-> 真实案例：高原藏装旅拍 → 二次构图 + 五官自然微调 + 藏地电影感 + 胶片 CCD 滤镜（详见 [references/cases.md](references/cases.md) 案例 9）
+> 真实案例：高原藏装旅拍 → 影棚精修档（分区肤色 + 双曲线立体轮廓 + 液化级修型 + 藏地电影感 + 胶片 CCD 滤镜）
 >
-> Real case: plateau Tibetan-costume travel shot → recomposition + subtle feature tuning + Tibetan cinematic mood + film CCD filter (see case 9 in [references/cases.md](references/cases.md))
+> Real case: plateau Tibetan-costume travel shot → studio-grade retouch (zoned skin, dodge-and-burn sculpting, liquefied contour, Tibetan cinematic mood + film CCD filter)
 
 ## 为什么值得用 / Why This Skill
 
